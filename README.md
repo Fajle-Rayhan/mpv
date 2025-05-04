@@ -1,3 +1,29 @@
+## Setting Used 
+
+- *fonts*
+    - uosc_icons.otf 
+    - uosc.textures.ttf
+- *scripts*
+    - uosc (pack)
+    - autoload.lua
+    - delete_current_file.lua 
+    - thumbfast.lua
+- *script-opts*
+    - console.conf (not in use)
+    - thumbfast.conf
+    - uosc.conf
+- *Keybindign*
+    - no annoying OSD, time-stamp
+    - youtube like timeline thumb 
+    - auto load playing file's folder into the mpv playlist 
+    - "delete" key to delete playing file from the system 
+    - "shift+." next playlist file to play
+    - "shift+," previous playlist file to play 
+    - "p" open any file with in mpv
+    - "g" open playing file folder
+    - "alt+s" load subtitles
+    - "shit+s" to take screenshot of the playing media frame, auto save to the "user/Pictures/screenshots/" folder with png fomate 
+    
 ## Configuration Files
 
 1. The input.conf file allows you to configure keyboard and mouse shortcuts.
