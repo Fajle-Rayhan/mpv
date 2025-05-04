@@ -11,7 +11,7 @@ or
 `C:\Users\USER\AppData\Roaming\mpv\scripts\`
 
 or in local mpv folder 
-`/portable-Config`
+`/portable_config`
 
 ## Linux Config 
 
